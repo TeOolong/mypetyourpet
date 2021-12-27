@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185276921441",
+    "firebase_url": "https://pm-2021-mypetyourpet-default-rtdb.firebaseio.com",
+    "project_id": "pm-2021-mypetyourpet",
+    "storage_bucket": "pm-2021-mypetyourpet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185276921441:android:f78e184c9fae7269941c20",
+        "android_client_info": {
+          "package_name": "com.example.mypetyourpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185276921441-bg9n3tbc2nn6kkgqkgsjjkig1m44vp3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCl0xt30FgN5DDRp97A4dOpJ7TG0zNrBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185276921441-bg9n3tbc2nn6kkgqkgsjjkig1m44vp3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
